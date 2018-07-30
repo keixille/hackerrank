@@ -1,0 +1,10 @@
+read x
+read y
+let addition=$x+$y
+let substraction=$x-$y
+let multiplication=$x*$y
+let division=$x/$y
+echo $addition
+echo $substraction
+echo $multiplication
+echo $division
